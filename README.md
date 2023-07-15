@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Alzheimer%20Detection%20;%20Building%20a%20a%20model&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Alzheimer%20Detection%20;%20Building%20the%20model&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
 </p> 
 
 - 📊 I'm a Marketing data scientist
