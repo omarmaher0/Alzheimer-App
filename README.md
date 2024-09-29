@@ -15,6 +15,13 @@
 - 🧠 Using TensorFlow & keras library.
 - 🧠 I used SMOTE algorithm to handle unbalanced data.
 - 🧠 I applied data visualization to see it clearly.
+
+  # Tools I Used
+
+- **Python** 
+- **Google Colab notebook** 
+- **TensorFlow & Keras** 
+- **SMOTE algorithm**
   
 ### Connect with Me :
 
